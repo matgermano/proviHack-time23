@@ -2,14 +2,22 @@
 <div align="center">
 <img src="./imgReadme/provi.gif" width="250">
 </div>                                            
+
 O ProviHack pra Todos é uma iniciativa gratuita da Provi para impulsionar profissionais nas suas carreiras em tecnologia através de experiências dinâmicas, palestras e outras trocas.
 
-O tema prosposto nessa edição é: **Como a tecnologia pode fortalecer grupos minorizados?**
+
 
 # Linguígena - Time 23
 <img src="./imgReadme/logo-nav.png" width="700">
 
-Linguígena é uma plataforma colaborativa capaz de manter o registo da língua visando o seu patrimônio cultural.
+## ▶️ Videos de apresentação:
+* [Pitch](https://youtu.be/9mx-QvXyljo)
+* [Demo](https://youtu.be/gJSKgQspLwY)
+<br><br><br>
+
+## ✨ O tema prosposto nessa edição é: **Como a tecnologia pode fortalecer grupos minorizados?** 
+Linguígena é uma plataforma colaborativa capaz de manter o registo da língua visando o seu patrimônio cultural.<br><br><br><br>
+
 
 ## :running: Iniciando o projeto
 Clone este repositório em sua máquina
@@ -60,7 +68,7 @@ Entre na pasta Back-end e instale via terminal utilizando os seguintes comandos:
 
 ### Desenvolvido por:
 
-🚀 **Matheus Germano** - *Product Owner* - [GitHub](https://github.com/matgermano)
+🚀 **Matheus Germano** - *Product Owner* - [GitHub](https://github.com/matgermano) e [Linkedin](https://www.linkedin.com/in/matheusgermanodesouza/)
 
 💻 **Camila Rangel** - *Front-end e Designer* - [GitHub](https://github.com/cafrangel)
 
@@ -72,9 +80,6 @@ Entre na pasta Back-end e instale via terminal utilizando os seguintes comandos:
 
 🗺️**Julia Vilela** - *UX Designer* - [Linkedin](https://www.linkedin.com/in/juliavillela24/)
 
-## ▶️ Videos de apresentação:
-* [Pitch](https://youtu.be/9mx-QvXyljo)
-* [Demo](https://youtu.be/gJSKgQspLwY)
 
 ## 📜 Material de Referência: 
 * [Links Notion](https://sun-feast-8bc.notion.site/Links-de-material-de-refer-ncia-39f35dd0336544a7839988f20cb716fd)
